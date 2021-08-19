@@ -1,0 +1,26 @@
+#head{
+    display: flex;
+    background-color: darkgreen;
+    height: 100px;
+}
+.icon{
+    padding-left: 100px;
+}
+#head i{
+    font-size: 30px;
+    position: absolute;
+    top:40px;
+    float: left;
+}
+#body{
+    display: flex;
+}
+#status{
+    width: 50%;
+}
+#status h1{
+    font-size: 16px;
+}
+#contact h1{
+    font-size: 14px;
+}
